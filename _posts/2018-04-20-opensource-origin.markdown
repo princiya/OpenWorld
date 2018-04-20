@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "OpenSource origin!"
+title:  "Open Source origin"
 date:   2018-04-20 12:26:39 +0200
 categories: opensource story
 ---
