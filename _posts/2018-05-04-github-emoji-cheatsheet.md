@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Open Source Origin"
+title:  "Github Emoji cheat sheet"
 date:   2018-05-04 12:26:39 +0200
-categories: Github Emoji cheat sheet
+categories: emoji
 ---
 
 As I was wondering what to publish for my weekly post, I just discovered this Github Emoji cheat sheet - https://www.webpagefx.com/tools/emoji-cheat-sheet/.
@@ -15,4 +15,4 @@ Worst, I used to write `:)` when I actually wanted `:blush:` this 😊. It's onl
 
 I use this website - https://emojipedia.org/ in general to find emoji codes.
 
-Happy OpenWorld Friday 💖 
+Happy OpenWorld Friday 💖
