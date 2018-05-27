@@ -16,6 +16,6 @@ Unfortunatey, none of these tools worked. They were either too painful to setup 
 
 On the 3rd day of the week we tried to write our very own tool to extract, load and transform the Github data. Towards the end of the week we had pretty much an MVP!
 
-[Here](https://github.com/zalando/roadblock) is the repo.
+[Here](https://github.com/zalando-incubator/roadblock) is the repo.
 
 [This](https://twitter.com/princi_ya/status/997416357980508160) tweet sums up our own mini hack-week!
