@@ -10,6 +10,7 @@ Learn new, interesting and fun facts related to the OPEN world.
 - OPENness is not just about code
 - Open vs Close - drawing the boundary line
 - What does it mean to apply OPEN principles to other sectors of life
+- Open Health, Open Science, Open Data, Open Source, Open Communication ...
 
 One article related to Openness posted every week. 📖
 
